@@ -232,13 +232,13 @@ article img {
 .container-aside aside button {
     margin-top: 20px;
     margin-left: 20px;
-    padding: 10px 30px;
+    padding: 10px 20px;
     font-size: 16px;
     background: #46a2fd;
     border: none;
     color: #fff;
     cursor: pointer;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .container-aside aside button:hover {
