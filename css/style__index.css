@@ -229,6 +229,10 @@ article img {
     padding: 0 20px;
 }
 
+.container-aside aside p span {
+    font-weight: bold;
+}
+
 .container-aside aside button {
     margin-top: 20px;
     margin-left: 20px;
